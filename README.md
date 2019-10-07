@@ -1,7 +1,7 @@
 # SyntacticAnalyzer
 A simple top-down syntactic analyzer for simple arithmetic expressions created for the Compilers Class at Universidad de Guadalajara
 
-Based on the Book of the dragon (Compilers: Principles, Techniques, and Tools second edition) page 32 the production rules are the following:
+Based on the Book of the dragon (Compilers: Principles, Techniques, and Tools second edition) page 72 the production rules are the following:
 
 Production					Semantic Rule
 
