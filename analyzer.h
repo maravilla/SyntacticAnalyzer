@@ -1,3 +1,8 @@
+/*
+*   github.com/maravilla
+*   8/9/19
+*/
+
 #ifndef ANALYZER_H_INCLUDED
 #define ANALYZER_H_INCLUDED
 #define toDigit(c) (c-'0')
