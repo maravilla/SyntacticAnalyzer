@@ -3,7 +3,7 @@ A simple top-down syntactic analyzer for simple arithmetic expressions created f
 
 Based on the Book of the dragon (Compilers: Principles, Techniques, and Tools second edition) page 72 the production rules are the following:
 
-Production					Semantic Rule
+Production   ->	  Semantic Rule
 
 L -> E\n					L.val = E.val  
 E-> DE’				  	E.val = D.val E’.val  
